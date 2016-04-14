@@ -1,0 +1,1 @@
+This project contains a number of flex projects. The goal is to give clues as to how different ioc frameworks do their work. The goal is to inform the developer as to the strengths and weaknesses of the various frameworks and find a best fit for them.
